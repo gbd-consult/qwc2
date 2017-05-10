@@ -8,7 +8,7 @@ See [qwc2-demo-app](https://github.com/gbd-consult/qwc2-demo-app) for an example
 
 Developing Plugins
 ------------------
-Plugins are stored unter ./QWC2Components/plugins/. To devolop your own you should start by copying one of the existing Plugins.
-There is an Example plugin to serve as a blueprint. Style information for the Plugins is stored under ./QWC2Components/plugins/style/.
-To embed your Plugin into the *qwc2-demo-app* it needs to be added to the ./config.json and ./js/appConfig.js configuration files.
-
+* Plugins are stored unter *./QWC2Components/plugins/*.
+* Style information for the Plugins is stored under *./QWC2Components/plugins/style/*.
+* To develop your own you should start by copying one of the existing Plugins. There is an Example plugin to serve as a blueprint.
+* To embed your Plugin into the [qwc2-demo-app](https://github.com/gbd-consult/qwc2-demo-app) it needs to be added to the *./config.json* and *./js/appConfig.js* configuration files.
