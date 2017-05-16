@@ -1,0 +1,26 @@
+#ZMF div[role=body] {
+    padding: 10px;
+}
+
+#ZMF div.panel-heading {
+    display: flex;
+}
+
+#ZMF div.panel {
+    margin-bottom: 5px;
+}
+
+
+#ZMF span.featurelist-item-spacer {
+    flex: 1 1 auto;
+}
+
+#ZMF span.featurelist-item-cog {
+    text-align: center;
+    cursor: pointer;
+    flex: 0 0 auto;
+}
+
+#ZMF input[type=range] {
+    width: 100% !important;
+}
