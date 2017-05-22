@@ -21,6 +21,6 @@
     flex: 0 0 auto;
 }
 
-#ZMF input[type=range] {
+input.zmf-slider {
     width: 100% !important;
 }
